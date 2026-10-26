@@ -2,7 +2,7 @@
 
 An English Codex skill for preparing Fiverr Gig images and video cover frames without stretching artwork.
 
-![Fiverr image and video cover guides with red margins, green content areas, and dimension arrows](assets/safe-zone-comparison.png)
+![Fictional video-editing Gig with headline, illustrations, and service labels extending to the dashed safe-area boundaries; red margins remain clear](assets/safe-zone-comparison.png)
 
 Red marks areas to keep important content out of; green marks the suggested content area. These are working guides, not official Fiverr crop boundaries. The image's text margins and the video's extra 40 px text inset are optional.
 
