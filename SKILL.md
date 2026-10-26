@@ -33,7 +33,6 @@ Prepare separate compositions for standalone Gig images and video preview frames
 - Preserve letter, face, and circle proportions. Do not use unequal x/y scaling or `object-fit: fill`.
 - Crop only nonessential background, extend the background where needed, or reposition elements proportionally. Keep complete words, badges, and essential face details.
 - After adapting to the target ratio, a centered, uniformly scaled `cover` fit is appropriate. Inspect the crop. Unwanted top/bottom bands from `contain` are not a finished adaptation.
-- The measured 1072 × 714 artwork area has an exact 2× master size of 2144 × 1428. A 1536 × 1024 source needs only about 0.333 px cropped from the top and bottom when fitted uniformly.
 - Use the available image-editing workflow for raster changes and preserve the original. No image-generation tool is required to use the calculator or SVG guides.
 
 ## Separate artwork buffers from text guides

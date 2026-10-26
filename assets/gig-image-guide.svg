@@ -1,28 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="769" viewBox="0 0 1280 769" role="img" aria-labelledby="title desc">
-  <title id="title">STANDALONE GIG IMAGE: 1280 by 769 pixels</title>
-  <desc id="desc">Official recommended canvas; text insets are optional. Artwork bounds: x 0, y 0, width 1280, height 769. Optional text bounds: x 104, y 48, width 1072, height 673. Guide only; remove before final export.</desc>
-  <g id="guides" font-family="Arial, Helvetica, sans-serif">
-    <g id="guide-fills">
-      <rect id="canvas-background" x="0" y="0" width="1280" height="769" fill="#f6f8fb"/>
-      <rect id="artwork-area" x="0" y="0" width="1280" height="769" fill="#def5f1"/>
+<title id="title">GIG IMAGE: 1280 by 769 pixels</title>
+<desc id="desc">Red margins avoid important content; green is a suggested content area. Optional text guide, not an official Fiverr safe zone. Artwork bounds 0, 0, 1280, 769; text bounds 104, 48, 1072, 673. Hide guides before final export.</desc>
+<defs>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M 20 0 H 0 V 20" fill="none" stroke="#656565" stroke-opacity="0.12" stroke-width="1"/></pattern>
+  <pattern id="hatch" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M -3 3 L 3 -3 M 0 12 L 12 0 M 9 15 L 15 9" stroke="#b02020" stroke-opacity="0.15" fill="none"/></pattern>
+</defs>
+<g id="guides" font-family="Arial, Helvetica, sans-serif">
+<g id="guide-fills">
+  <rect x="0" y="0" width="1280" height="769" fill="#ffffff"/>
+  <rect x="0" y="0" width="1280" height="769" fill="#f5b1b1"/>
+  <rect id="artwork-area" x="0" y="0" width="1280" height="769" fill="none"/>
+  <rect id="green-content-area" x="104" y="48" width="1072" height="673" fill="#c2edbd"/>
+<rect x="0" y="0" width="1280" height="769" fill="url(#grid)"/>
 </g>
-<g id="guide-lines" fill="none">
-<rect id="canvas-outline" x="1" y="1" width="1278" height="767" stroke="#10253e" stroke-width="2"/>
-<rect id="optional-text-guide" x="104" y="48" width="1072" height="673" stroke="#087f79" stroke-width="2.0" stroke-dasharray="12.0 8.0"/>
+<g id="guide-lines" fill="none" stroke="#111111">
+<rect x="1" y="1" width="1278" height="767" stroke-width="2"/>
+<rect id="optional-text-guide" x="104" y="48" width="1072" height="673" stroke-width="2.0" stroke-dasharray="12.0 8.0"/>
 </g>
 <g id="annotations">
-<text x="640.0" y="95.0" text-anchor="middle" font-size="26.0" font-weight="700" fill="#10253e" >STANDALONE GIG IMAGE</text>
-<text x="640.0" y="133.0" text-anchor="middle" font-size="23.0" font-weight="400" fill="#10253e" >Outer canvas: 1280 × 769 px</text>
-<text x="640.0" y="339.5" text-anchor="middle" font-size="38.0" font-weight="700" fill="#10253e" >Artwork: 1280 × 769 px</text>
-<text x="640.0" y="390.5" text-anchor="middle" font-size="25.0" font-weight="700" fill="#10253e" >Optional text guide: 1072 × 673 px</text>
-<text x="640.0" y="432.5" text-anchor="middle" font-size="20.0" font-weight="400" fill="#10253e" >Text inset inside artwork: 104 px horizontally / 48 px vertically</text>
-<text x="640.0" y="636.0" text-anchor="middle" font-size="18.0" font-weight="400" fill="#10253e" >Official recommended canvas; text insets are optional.</text>
-<text x="640.0" y="672.0" text-anchor="middle" font-size="18.0" font-weight="400" fill="#10253e" >Working guide; no universal Fiverr safe-zone guarantee.</text>
-<text x="640.0" y="708.0" text-anchor="middle" font-size="17.0" font-weight="400" fill="#10253e" >Hide the guides group before exporting your finished cover.</text>
-<text x="52.0" y="384.5" text-anchor="middle" font-size="18.0" font-weight="700" fill="#10253e" transform="rotate(-90 52.0 384.5)">104 px optional text inset</text>
-<text x="1228.0" y="384.5" text-anchor="middle" font-size="18.0" font-weight="700" fill="#10253e" transform="rotate(-90 1228.0 384.5)">104 px optional text inset</text>
-<text x="640.0" y="30" text-anchor="middle" font-size="17.0" font-weight="400" fill="#10253e" >48 px optional text inset</text>
-<text x="640.0" y="753" text-anchor="middle" font-size="17.0" font-weight="400" fill="#10253e" >48 px optional text inset</text>
+<text x="640.0" y="110.0" text-anchor="middle" font-size="25.0" font-weight="700" fill="#111111" >GIG IMAGE · 1280 × 769 px</text>
+<text x="640.0" y="364.5" text-anchor="middle" font-size="46.0" font-weight="700" fill="#176820" >TEXT SAFE AREA</text>
+<text x="640.0" y="416.5" text-anchor="middle" font-size="32.0" font-weight="700" fill="#111111" >1072 × 673 px</text>
+<text x="640.0" y="461.5" text-anchor="middle" font-size="23.0" font-weight="400" fill="#111111" >Optional text guide</text>
+<text x="640.0" y="644.0" text-anchor="middle" font-size="22.0" font-weight="400" fill="#111111" >Background continues to all four edges</text>
+<text x="640.0" y="681.0" text-anchor="middle" font-size="18.0" font-weight="400" fill="#111111" >Working guide, not an official Fiverr safe zone</text>
+<text x="52.0" y="384.5" text-anchor="middle" font-size="18.0" font-weight="700" fill="#111111" transform="rotate(-90 52.0 384.5)">104 px</text>
+<text x="1228.0" y="384.5" text-anchor="middle" font-size="18.0" font-weight="700" fill="#111111" transform="rotate(-90 1228.0 384.5)">104 px</text>
+<text x="640.0" y="30" text-anchor="middle" font-size="17.0" font-weight="700" fill="#111111" >48 px</text>
+<text x="640.0" y="753" text-anchor="middle" font-size="17.0" font-weight="700" fill="#111111" >48 px</text>
 </g>
 </g>
 </svg>
