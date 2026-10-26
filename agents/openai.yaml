@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fiverr Gig Images and Video Covers"
+  short_description: "Gig image sizing and video cover layout guides"
+  default_prompt: "Use $fiverr-gig-media to prepare this Gig image or video cover, separating official specifications, measured reference geometry, and optional text margins."
+policy:
+  allow_implicit_invocation: true

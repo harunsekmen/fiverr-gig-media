@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="714" viewBox="0 0 1280 714" role="img" aria-labelledby="title desc">
+  <title id="title">MEASURED VIDEO REFERENCE: 1280 by 714 pixels</title>
+  <desc id="desc">Historical example; not an official Fiverr video size. Artwork bounds: x 104, y 0, width 1072, height 714. Optional text bounds: x 144, y 40, width 992, height 634. Guide only; remove before final export.</desc>
+  <g id="guides" font-family="Arial, Helvetica, sans-serif">
+    <g id="guide-fills">
+      <rect id="canvas-background" x="0" y="0" width="1280" height="714" fill="#f6f8fb"/>
+      <rect id="artwork-area" x="104" y="0" width="1072" height="714" fill="#def5f1"/>
+<rect id="left-buffer" x="0" y="0" width="104" height="714" fill="#ffedc0"/>
+<rect id="right-buffer" x="1176" y="0" width="104" height="714" fill="#ffedc0"/>
+</g>
+<g id="guide-lines" fill="none">
+<rect id="canvas-outline" x="1" y="1" width="1278" height="712" stroke="#10253e" stroke-width="2"/>
+<path d="M 104 0 V 714 M 1176 0 V 714" stroke="#b07900" stroke-width="2.0"/>
+<rect id="optional-text-guide" x="144" y="40" width="992" height="634" stroke="#087f79" stroke-width="2.0" stroke-dasharray="12.0 8.0"/>
+</g>
+<g id="annotations">
+<text x="640.0" y="95.0" text-anchor="middle" font-size="26.0" font-weight="700" fill="#10253e" >MEASURED VIDEO REFERENCE</text>
+<text x="640.0" y="133.0" text-anchor="middle" font-size="23.0" font-weight="400" fill="#10253e" >Outer canvas: 1280 × 714 px</text>
+<text x="640.0" y="312.0" text-anchor="middle" font-size="38.0" font-weight="700" fill="#10253e" >Artwork: 1072 × 714 px</text>
+<text x="640.0" y="363.0" text-anchor="middle" font-size="25.0" font-weight="700" fill="#10253e" >Optional text guide: 992 × 634 px</text>
+<text x="640.0" y="405.0" text-anchor="middle" font-size="20.0" font-weight="400" fill="#10253e" >Text inset inside artwork: 40 px horizontally / 40 px vertically</text>
+<text x="640.0" y="581.0" text-anchor="middle" font-size="18.0" font-weight="400" fill="#10253e" >Historical example; not an official Fiverr video size.</text>
+<text x="640.0" y="617.0" text-anchor="middle" font-size="18.0" font-weight="400" fill="#10253e" >Working guide; no universal Fiverr safe-zone guarantee.</text>
+<text x="640.0" y="653.0" text-anchor="middle" font-size="17.0" font-weight="400" fill="#10253e" >Hide the guides group before exporting your finished cover.</text>
+<text x="52.0" y="357.0" text-anchor="middle" font-size="19.0" font-weight="700" fill="#10253e" transform="rotate(-90 52.0 357.0)">104 px · background only</text>
+<text x="1228.0" y="357.0" text-anchor="middle" font-size="19.0" font-weight="700" fill="#10253e" transform="rotate(-90 1228.0 357.0)">104 px · background only</text>
+</g>
+</g>
+</svg>

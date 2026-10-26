@@ -1,0 +1,31 @@
+{
+  "recorded": "2026-10-26",
+  "provenance": "Summary of the original creator's local frame measurements and accepted marketplace screenshot; original media is not distributed.",
+  "approval_scope": "One supplied marketplace view accepted by its creator; no universal device test or paired image/video crop test.",
+  "video_reference": {
+    "canvas": [1280, 714],
+    "artwork_xywh": [104, 0, 1072, 714],
+    "side_buffer_each": 104,
+    "side_buffer_percent_each": 8.125,
+    "outer_top_bottom_padding": 0,
+    "is_official_fiverr_video_size": false
+  },
+  "marketplace_image_rectangle_estimate": {
+    "xywh": [49, 94, 260, 144],
+    "scope": "Visible screenshot rectangle; platform CSS and crop behavior not established."
+  },
+  "adapted_source_dimensions": [1536, 1024],
+  "source_artwork_dimensions": [2080, 1248],
+  "optional_text_guides": {
+    "standalone": {"inset_x": 104, "inset_y": 48, "xywh": [104, 48, 1072, 673]},
+    "reference_video": {"inset_inside_artwork": 40, "xywh": [144, 40, 992, 634]},
+    "is_official_or_measured_platform_crop_boundary": false
+  },
+  "timing_example": {
+    "total_seconds": 44,
+    "fps": 30,
+    "cover_interval_seconds": [43.7, 44.0],
+    "cover_frames_zero_based_end_exclusive": [1311, 1320],
+    "is_fiverr_requirement": false
+  }
+}
